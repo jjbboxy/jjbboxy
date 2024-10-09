@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently in post secondary
+- I'm currently in my 2nd year of university, majoring in computer science
 <!--
 **jjbboxy/jjbboxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
